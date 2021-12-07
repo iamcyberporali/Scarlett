@@ -1,14 +1,14 @@
 {
-  "name": "Raganork",
+  "name": "Scarlett_v2",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "Scarlett_v2 whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/iamcyberporali/Scarlett_v2.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,10 +18,10 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "developer": "Scarlett_v2 / @souravkl11",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/iamcyberporali/Scarlett_v2/issues"
   },
   "homepage": "https://github.com/souravkl11/Raganork#readme",
   "dependencies": {
